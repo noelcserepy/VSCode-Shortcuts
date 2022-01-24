@@ -36,7 +36,7 @@ Un-Indent selection/line.
 Indent selection/line.
 
 ## Misc
-##### CTRL-F
+#### CTRL-F
 Find in document
 
 #### CTRL-Click
@@ -67,7 +67,7 @@ Move selection/line up/down.
 Copy selection/line up/down.
 
 ## Refactoring
-##### Alt-Shift-F
+#### Alt-Shift-F
 Format
 
 #### Ctrl-Shift-R
