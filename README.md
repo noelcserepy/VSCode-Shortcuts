@@ -2,90 +2,87 @@
 A list of useful shortcuts to help you code faster.
 
 ## Navigation & Selection
-##### Double-Click
+#### Double-Click
 Select word.
 
-##### Triple-Click
+#### Triple-Click
 Select line.
 
-##### Shift-Click
+#### Shift-Click
 Select everything between cursor and click.
 
-##### CTRL-D
+#### CTRL-D
 Add next instance of currently selected text to your selection.
 
-##### CTRL-A
+#### CTRL-A
 Select all.
 
-##### End
+#### End
 Move cursor to the end of the current line.
 
-##### Home
+#### Home
 Move cursor to the start of the current line.
 
-##### Shift-Arrow Keys
+#### Shift-Arrow Keys
 Select characters in direction.
 
-##### CTRL-Left/Right Arrow
+#### CTRL-Left/Right Arrow
 Move by stepping over words/expressions.
 
-##### Shift-Tab
+#### Shift-Tab
 Un-Indent selection/line.
 
-##### Selected-Tab
+#### Selected-Tab
 Indent selection/line.
 
 ## Misc
 ##### CTRL-F
 Find in document
 
-##### CTRL-Click
+#### CTRL-Click
 Get to function definition.
 
-##### F5
+#### F5
 Run in debug.
 
-##### CTRL-F5
+#### CTRL-F5
 Run without debug.
 
-##### CTRL-Shift-P
+#### CTRL-Shift-P
 Open Command Palette.
 
-##### CTRL-K -> CTRL-C
+#### CTRL-K -> CTRL-C
 Make comment from selection/line.
 
-##### CTRL-K -> CTRL-U
+#### CTRL-K -> CTRL-U
 Uncomment selection/line.
 
-##### Selection + opening brackets
+#### Selection + opening brackets
 Put brackets around selection.
 
-##### Alt-Up/Down Arrow
+#### Alt-Up/Down Arrow
 Move selection/line up/down.
 
-##### Alt-Shift-Up/Down Arrow
+#### Alt-Shift-Up/Down Arrow
 Copy selection/line up/down.
 
 ## Refactoring
 ##### Alt-Shift-F
 Format
 
-##### Ctrl-Shift-R
+#### Ctrl-Shift-R
 Refactor
 
-##### F2
+#### F2
 Rename
 
 ## Terminal
-##### Up arrow
+#### Up arrow
 Cycle through previous commands
 
-##### Tab
+#### Tab
 Auto complete
 
 ## Extensions
-##### Bracket Pair Colorizer 2
-A customizable extension for colorizing matching brackets
-
-##### Bracket Pair Colorizer 2
+#### Bracket Pair Colorizer 2
 A customizable extension for colorizing matching brackets
